@@ -1,6 +1,13 @@
-# Felipe Austríaco @jovemdev
+# Ferramentas necessárias para o ambiente de React JS
 
-# README AUTOMÁTICO DO REACT LOGO ABAIXO
+## `node`
+    curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -  
+    sudo apt-get install -y nodejs  
+## `yarn`
+    curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -  
+    echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list  
+    sudo apt update  
+    sudo apt install yarn  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

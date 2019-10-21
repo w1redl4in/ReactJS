@@ -16,6 +16,7 @@
   margin-bottom: 0px;
   color: black;
   text-decoration: underline #8ACE5A;
+  cursor: default;
 }
 .character-list article p {
   margin-top: 10px;
@@ -50,5 +51,6 @@
   transition: all 0.1s;
   font-weight: 900;
   color: black;
+  cursor: default;
 }
 
